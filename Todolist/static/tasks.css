@@ -1,0 +1,13 @@
+.text-center{
+    color: solid #8C55AA;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: cursive;
+    padding-top: 15px;
+}
+.navbar{
+    background-color: #8C55AA;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+}

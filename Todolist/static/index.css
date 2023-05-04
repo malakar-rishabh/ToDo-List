@@ -1,0 +1,27 @@
+body{
+    background-color: #F3EBF6;
+    font-family: 'Ubuntu', sans-serif;
+}
+.container my-3{
+    background-color: #FFFFFF;
+
+}
+.text-center{
+    color: solid #8C55AA;
+    font-size: 200%;
+    font-weight: bold;
+    font-family: cursive;
+    padding-top: 15px;
+}
+.container-fluid
+{
+    background-color: solid #8C55AA;
+    font-weight: bold;
+    font-family: cursive;
+}
+.navbar{
+    background-color: #8C55AA;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+}
